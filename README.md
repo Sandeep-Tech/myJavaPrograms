@@ -1,2 +1,2 @@
 # myJavaPrograms
-somethings I did in JAVA.
+some programs I wrote in JAVA.
