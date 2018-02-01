@@ -1,0 +1,6 @@
+
+public class counterClass{
+    public static void fourConsqConsonants(String Cword){
+		System.out.println(Cword);
+   }
+}
